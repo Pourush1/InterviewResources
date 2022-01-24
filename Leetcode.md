@@ -3,6 +3,7 @@
 ## Leetcode
 
 - [75 important questions solved and hint](https://docs.google.com/spreadsheets/d/1eCZoKFE1YOXzh4yd-XoarOI2M-Ws1l3805uK0xAUsyQ/edit#gid=0)
+- [Google | Facebook | Interview questions | July 2020 - July 2021](https://leetcode.com/discuss/interview-question/1376426/Facebook-or-Interview-questions-or-July-2020-July-2021)
 
 ## Motivation for Leetcode
 
